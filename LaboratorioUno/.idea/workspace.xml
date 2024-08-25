@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="587dc446-9c16-4964-b150-61c2676e88e2" name="Changes" comment="" />
+    <list default="true" id="587dc446-9c16-4964-b150-61c2676e88e2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/laboratoriouno/Estado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/laboratoriouno/Sesion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +18,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -31,6 +36,9 @@
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="2lAYMfraIKBY57LpF34lrUZXiJZ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -54,6 +62,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.example.laboratoriouno" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -75,6 +88,7 @@
       <workItem from="1724628420928" duration="33000" />
       <workItem from="1724629096940" duration="149000" />
       <workItem from="1724629479385" duration="17000" />
+      <workItem from="1724629510689" duration="493000" />
     </task>
     <servers />
   </component>
