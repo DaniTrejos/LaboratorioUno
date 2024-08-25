@@ -2,12 +2,12 @@ package org.example.laboratoriouno;
 
 import java.util.ArrayList;
 
-public class Entrenadores {
+public class Entrenador {
     private String nombre;
     private String especialidad;
     private ArrayList<String> listaSesiones;
 
-    public Entrenadores(String nombre, String especialidad, ArrayList<String> listaSesiones) {
+    public Entrenador(String nombre, String especialidad, ArrayList<String> listaSesiones) {
         this.nombre = nombre;
         this.especialidad = especialidad;
         this.listaSesiones = listaSesiones;
