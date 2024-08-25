@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="edf5edad-7ec7-4c23-bac7-74774df4b4c4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/LaboratorioUno/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LaboratorioUno/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LaboratorioUno/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LaboratorioUno/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LaboratorioUno/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LaboratorioUno/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LaboratorioUno/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LaboratorioUno/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LaboratorioUno/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LaboratorioUno/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LaboratorioUno/src/main/java/module-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LaboratorioUno/src/main/java/org/example/laboratoriouno/HelloApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LaboratorioUno/src/main/java/org/example/laboratoriouno/HelloController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LaboratorioUno/src/main/resources/org/example/laboratoriouno/hello-view.fxml" beforeDir="false" />
-    </list>
+    <list default="true" id="edf5edad-7ec7-4c23-bac7-74774df4b4c4" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,17 +18,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/caoa2/OneDrive/Documents/GitHub/LaboratorioUno&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/caoa2/OneDrive/Documents/GitHub/LaboratorioUno/LaboratorioUno",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
