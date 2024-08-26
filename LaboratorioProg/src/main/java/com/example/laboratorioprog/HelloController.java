@@ -1,4 +1,4 @@
-package org.example.laboratoriouno;
+package com.example.laboratorioprog;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
